@@ -10,12 +10,7 @@
      "target_metric":["Metric 1"],
     "prefix":"",  
 
-    "default_values":{"parent_level":5,
-                     "granularity_lavel_after_Parent_level":3,
-                      "green_thr":5,
-                      "orange_thr":5,
-                      "green_active":12,
-                      "orange_active":12},
+    "default_values":{"parent_level":5},
     "parent_level":{"Earned Media":3,
                     "Owned Media":3,
                     "Non-Media":4},
